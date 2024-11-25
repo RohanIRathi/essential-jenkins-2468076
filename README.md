@@ -1,7 +1,7 @@
 # Jenkins Essential Training
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-[![Build Status](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=scm-pipeline)](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/job/scm-pipeline/)
+Jenkins build status: [![Build Status](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=scm-pipeline)](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/job/scm-pipeline/)
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
 
