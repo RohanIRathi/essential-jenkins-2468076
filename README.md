@@ -1,8 +1,6 @@
 # Jenkins Essential Training
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-Jenkins build status: [![Build Status](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=scm-pipeline)](http://ec2-3-146-194-36.us-east-2.compute.amazonaws.com:8080/job/scm-pipeline/)
-
 ![Jenkins Essential Training][lil-thumbnail-url] 
 
 If you want to build, deploy, and implement continuous delivery as code, you’ve likely heard about Jenkins, the popular DevOps suite known for its open-source extensibility and ease of use. Jenkins also lets you automate your entire enterprise as a software delivery pipeline. In this course, instructor Michael Jenkins shows you the fundamentals of navigating the platform so you can start automating builds and testing and securing deployments.
